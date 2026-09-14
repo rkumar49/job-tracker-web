@@ -11,7 +11,10 @@ type Application = {
   appliedAt: string;
 };
 
-const API_URL = 'http://localhost:4000/api/applications';
+
+//const API_URL = 'http://localhost:4000/api/applications';
+
+const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:4000/api/applications';
 
 function App() {
   const [applications, setApplications] = useState<Application[]>([]);
