@@ -11,8 +11,6 @@ A modern, responsive web application for tracking job applications. Built with R
 
 *(Replace the links above with your actual deployed URLs)*
 
-## 📸 Screenshots
-
 
 ## 🛠️ Tech Stack
 - **Framework:** [React](https://reactjs.org/)
