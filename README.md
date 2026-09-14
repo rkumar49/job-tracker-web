@@ -1,3 +1,4 @@
+<img width="950" height="455" alt="screenshot" src="https://github.com/user-attachments/assets/6ad396c3-f158-4340-b3c6-7edd46c9c404" />
 
 ```markdown
 # Job Tracker - Frontend
@@ -11,8 +12,7 @@ A modern, responsive web application for tracking job applications. Built with R
 *(Replace the links above with your actual deployed URLs)*
 
 ## 📸 Screenshots
-![Job Tracker Dashboard](./screenshot.png)
-*(Replace this with a screenshot of your app. Drag and drop an image into GitHub to generate a link, or add a `screenshot.png` to your repo).*
+
 
 ## 🛠️ Tech Stack
 - **Framework:** [React](https://reactjs.org/)
